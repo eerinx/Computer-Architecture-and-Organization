@@ -19,7 +19,7 @@ start:
 	int 21h
 	mov dl,61h		; 'a'
 	int 21h
-	mov dl,79h			; 'y'
+	mov dl,79h	    ; 'y'
 	int 21h
 	mov dl,73h		; 's'
 	int 21h
